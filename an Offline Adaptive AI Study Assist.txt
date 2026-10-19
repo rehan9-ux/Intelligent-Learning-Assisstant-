@@ -1,0 +1,9 @@
+an Offline Adaptive AI Study Assistant, titled Intelligent Learning Assistant (ILA) — a fully self-contained AI tutoring system that runs locally without any internet or API calls.
+
+The core idea is to build a system where students can upload their own study materials (PDFs, notes, textbooks) and receive personalized tutoring, auto-generated quizzes, and adaptive explanations — all without requiring an internet connection.
+.
+The key outcomes of this project are a self-improving AI tutor that personalizes explanations based on individual performance, works fully offline with no cloud dependency, and demonstrates practical integration of RAG, local LLMs, and classical ML in a single system.
+
+This project will be carried out by Krish Shandilya (24UCS156) and Rehan Khan (24UCS277).
+
+I believe this project covers meaningful ground in machine learning, NLP, and software engineering, and would make for a strong semester project.

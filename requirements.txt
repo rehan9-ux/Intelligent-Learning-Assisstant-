@@ -1,0 +1,23 @@
+# Intelligent Learning Assistant (ILA) - Requirements
+
+# Core RAG & Vector Database
+chromadb>=0.4.22
+langchain>=0.1.0
+langchain-community>=0.0.20
+pymupdf>=1.23.0
+
+# Frontend & Visualization
+streamlit>=1.31.0
+plotly>=5.18.0
+
+# Backend & Networking
+fastapi>=0.109.0
+uvicorn>=0.27.0
+requests>=2.31.0
+pydantic>=2.6.0
+
+# Cognitive & Machine Learning Models
+pyBKT>=1.4.0
+sentence-transformers>=2.3.0
+pandas>=2.1.0
+numpy>=1.24.0

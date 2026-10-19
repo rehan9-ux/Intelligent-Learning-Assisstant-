@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+ila_env/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Local Vector & Relational Databases
+data/ila_students.db
+data/ila_db/
+*.sqlite3
+*.db
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local helper scripts
+push.bat
+
