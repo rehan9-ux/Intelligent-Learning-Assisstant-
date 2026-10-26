@@ -2,10 +2,8 @@
 ### An Offline, Privacy-Preserving Adaptive AI Study Assistant
 
 **Team Members:**  
-- Krish Shandilya (24UCS156)  
-- Rehan Khan (24UCS277)  
-
-**Degree:** B.Tech Computer Science & Engineering  
+- Krish Shandilya 
+- Rehan Khan 
 
 ---
 
